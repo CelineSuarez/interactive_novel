@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"private",
+				"private"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"author",
+				"PDF_set_info_author"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"blockE",
+				"mhash_get_block_size"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pregma",
+				"preg_match"
+			],
+			[
+				"split",
+				"splitString"
+			],
+			[
+				"sp",
+				"splitString"
+			],
+			[
+				"vowe",
+				"vowelString"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"number",
+				"number-1"
+			],
+			[
+				"correct",
+				"correctAnswers"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"F",
+				"Fizz_Buzz"
+			],
+			[
+				"b",
+				"bes"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"if",
+				"ife	if … else"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/InteractiveNovel/index.php",
+			"settings":
+			{
+				"buffer_size": 7295,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"browse packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Interactivenovel/signup.php",
+		"/C/xampp/htdocs/Interactivenovel/login.php",
+		"/C/xampp/htdocs/Interactivenovel/storyedit.php",
+		"/C/xampp/htdocs/Interactivenovel/upload.php",
+		"/C/xampp/htdocs/Interactivenovel/previewandpublish.php",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/blog.php",
+		"/C/xampp/htdocs/Interactivenovel/homepage.php",
+		"/C/xampp/htdocs/InteractiveNovel/Bootstrap/Bootstrap/index.html",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/index.php",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/index.html",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/comment.php",
+		"/C/Users/Celine/Desktop/CoderVox/reverseinPHP.php",
+		"/C/xampp/htdocs/reversestring.php",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/signup.php",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/logout.php",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/login.php",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/assets/header.php",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/sys/config/db.inc.php",
+		"/C/xampp/htdocs/week5pair/ppchallenge4/simpleblog/public/header.php",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/application/controllers/index.html",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/application/config/database.php",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/application/config/config.php",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/application/controllers/testsite.php",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/.htaccess",
+		"/C/Users/Celine/Desktop/xamppphpbackup.php",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/application/controllers/welcome.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/.gitignore",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/application/controllers/index.php",
+		"/C/xampp/htdocs/forbidden/.htaccess",
+		"/C/xampp/htdocs/CodeIgniter/CodeIgniter-2.2-stable/application/config/routes.php",
+		"/C/xampp/htdocs/CodeIgniter-2.2-stable/application/config/config.php",
+		"/C/xampp/htdocs/public/testregex.php",
+		"/C/xampp/htdocs/sqlexercise21020.php",
+		"/C/xampp/htdocs/mysql",
+		"/C/xampp/htdocs/phpinfo.php",
+		"/C/xampp/htdocs/calendar_project/class/class.calendar.inc.php",
+		"/C/xampp/htdocs/dateexercise.php",
+		"/C/xampp/htdocs/shapeclass.php",
+		"/C/xampp/htdocs/squareclass.php",
+		"/C/xampp/htdocs/week4pair/week4/apis/apis.php",
+		"/C/xampp/htdocs/calendar_project/class/class.db_connect.inc.php",
+		"/C/xampp/htdocs/calendar_project/core/init.inc.php",
+		"/C/xampp/htdocs/test.php",
+		"/C/xampp/htdocs/shapeclass",
+		"/C/xampp/htdocs/calendar_project/config/db-cred.inc.php",
+		"/C/xampp/htdocs/house.php",
+		"/C/xampp/htdocs/Bankaccountclass.php",
+		"/C/xampp/htdocs/week4pair/week4/gallery/filepage.php",
+		"/C/xampp/htdocs/week4pair/week4/gallery/index.php",
+		"/C/xampp/htdocs/API_calls/giphyapi.php",
+		"/C/xampp/htdocs/sqlexercise2_1020.php",
+		"/C/xampp/htdocs/sqlexercise1020.php",
+		"/C/xampp/htdocs/API_calls/americanhsapicall.php",
+		"/C/xampp/htdocs/week2pair/week2pair/tictactoe/tictactoe.php",
+		"/C/xampp/htdocs/portfolio/body.php",
+		"/C/xampp/htdocs/portfolio/header.php",
+		"/C/xampp/htdocs/filepull/namepull.php",
+		"/C/xampp/htdocs/fileuploadexercise/upload.html",
+		"/C/xampp/htdocs/fileuploadexercise/upload.php",
+		"/C/xampp/htdocs/logintoafile.php",
+		"/C/xampp/htdocs/filepull/names.txt",
+		"/C/xampp/htdocs/login.php",
+		"/C/xampp/htdocs/filepull/grades.txt",
+		"/C/xampp/htdocs/week2pair/week2pair/form.php",
+		"/C/xampp/htdocs/week2pair/week2pair/form.html",
+		"/C/xampp/htdocs/portfolio/contactme.php",
+		"/C/xampp/htdocs/portfolio/about.php",
+		"/C/xampp/htdocs/portfolio/portfolio.php",
+		"/C/xampp/htdocs/filepull/grades.php",
+		"/C/xampp/htdocs/portfolio/bootstrapexercise.html",
+		"/C/xampp/htdocs/form.php",
+		"/C/xampp/htdocs/dashboard.php",
+		"/C/Users/Celine/Desktop/week2pair/week2pair/amortization/amortization.html",
+		"/C/xampp/htdocs/helloworld.php",
+		"/C/xampp/htdocs/interest.php",
+		"/C/Users/Celine/Desktop/week2pair/week2pair/form.html",
+		"/C/Users/Celine/Desktop/CoderVox/php for multiplicaiton table",
+		"/C/Users/Celine/Desktop/CoderVox/portfolio.html",
+		"/C/Users/Celine/Desktop/CoderVox/bootstrapexercise.html",
+		"/C/Users/Celine/Desktop/PPChallenge1/highlowgame/highlowgame.html",
+		"/C/Users/Celine/Desktop/CoderVox/Week 0 Day 4/hw4problem3.js",
+		"/C/Users/Celine/Desktop/CoderVox/testforscripts.html",
+		"/C/Users/Celine/Desktop/PPChallenge1/highlowgame/highlowgame.js",
+		"/C/Users/Celine/Homestead/Homestead.yaml",
+		"/C/Users/Celine/Desktop/CoderVox/jquery/username.html",
+		"/C/Users/Celine/Desktop/CoderVox/username.html",
+		"/C/Users/Celine/Desktop/CoderVox/shuffled.js",
+		"/C/Users/Celine/Desktop/CoderVox/hw4problem3.js",
+		"/C/Users/Celine/Desktop/CoderVox/shuffled.html",
+		"/C/Users/Celine/Desktop/PPChallenge1/isAnagram/anagram.js",
+		"/C/Users/Celine/Desktop/CoderVox/jquery/jqueryplugins/progression.js",
+		"/C/Users/Celine/Desktop/CoderVox/vowelscript.html",
+		"/C/Users/Celine/Desktop/CoderVox/vowelscript.js",
+		"/C/Users/Celine/Desktop/CoderVox/primenumber.js",
+		"/C/Users/Celine/Desktop/CoderVox/primenumbertextbox.html",
+		"/C/Users/Celine/Desktop/CoderVox/jqueryindex.html",
+		"/C/Users/Celine/Desktop/CoderVox/1stjavascript.html",
+		"/C/Users/Celine/Desktop/CoderVox/jqueryselector.html",
+		"/C/Users/Celine/Desktop/CoderVox/hw4problem4.js",
+		"/C/Users/Celine/Desktop/CoderVox/hw4problem2.js",
+		"/C/Users/Celine/Desktop/PPChallenge1/isAnagram/anagram.html",
+		"/C/Users/Celine/Desktop/CoderVox/hw4problem1.js",
+		"/C/Users/Celine/Desktop/CoderVox/rollover doge/doge.js",
+		"/C/Users/Celine/Desktop/CoderVox/rollover doge/doge.html",
+		"/C/Users/Celine/Desktop/CoderVox/simplequiz.html",
+		"/C/Users/Celine/Desktop/CoderVox/catindex.html",
+		"/C/Users/Celine/Desktop/CoderVox/cat.js",
+		"/C/Users/Celine/Desktop/CoderVox/exampletv.html",
+		"/C/Users/Celine/Desktop/CoderVox/hw3problem6.js",
+		"/C/Users/Celine/Desktop/CoderVox/square.js",
+		"/C/Users/Celine/Desktop/CoderVox/isOdd.js",
+		"/C/Users/Celine/Desktop/CoderVox/hw3problem5.js",
+		"/C/Users/Celine/Desktop/CoderVox/hw3problem4.js",
+		"/C/Users/Celine/Desktop/CoderVox/televisionobject.js",
+		"/C/Users/Celine/Desktop/CoderVox/abexercise.js",
+		"/C/Users/Celine/Desktop/CoderVox/squarefunction.html",
+		"/C/Users/Celine/Desktop/CoderVox/temperatureform.js",
+		"/C/Users/Celine/Desktop/CoderVox/temperatureform.html",
+		"/C/Users/Celine/Desktop/PPChallenge1/99bottles/99bottles.html",
+		"/C/Users/Celine/Desktop/CoderVox/fizzbuzz.js",
+		"/C/Users/Celine/Desktop/PPChallenge1/99bottles/televisionobject.js",
+		"/C/Users/Celine/Desktop/PPChallenge1/99bottles/99bottles.js",
+		"/C/Users/Celine/Desktop/CoderVox/simplequiz.js",
+		"/C/Users/Celine/Desktop/CoderVox/gradingcode.js",
+		"/C/Users/Celine/Desktop/CoderVox/area.js",
+		"/C/Users/Celine/Desktop/CoderVox/hw3problem2.js",
+		"/C/Users/Celine/Desktop/CoderVox/hw3problem3.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"valid",
+			"));\n",
+			"\n$",
+			"\";\n",
+			";",
+			">",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/InteractiveNovel/index.php",
+					"settings":
+					{
+						"buffer_size": 7295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2108,
+								2108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 383.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Celine/Desktop/week4pair/week4/allfilesPP4.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
